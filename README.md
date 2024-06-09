@@ -1,24 +1,30 @@
 # Continuum Block Developer Courses
 
-**Join the Continuum Block under The Light Ideas for a series of lessons, webinars, and hackathons in SMART CONTRACT DEVELOPMENT and LAYER 2 SOLUTIONS.**
+Join the Continuum Block under The Light Ideas for a series of lessons, webinars, and hackathons in SMART CONTRACT DEVELOPMENT, LAYER 2 SOLUTIONS, and OPTIMISTIC ROLLUPS.
 
 ## Course Overview
 
 ### Smart Contract Development
-
 - **Duration**: 8 weeks
 - **Schedule**: Every Monday, Tuesday, and Wednesday
 - **Time**: 7:00 PM - 8:00 PM EAT
 - **Developer Hour Session**: Every Friday, 7:00 PM - 8:00 PM EAT (for Q&A, debugging assistance)
 
-### Layer 2 Solutions
-
+### Advanced Blockchain Solutions - Layer 2 Technologies
 - **Duration**: 8 weeks
 - **Schedule**: Every Monday, Tuesday, and Wednesday
 - **Time**: 7:00 PM - 8:00 PM EAT
 - **Developer Hour Session**: Every Friday, 7:00 PM - 8:00 PM EAT (for Q&A, debugging assistance)
 
-**Coordinator**: Jordan Muthemba, Smart Contract Developer and Developer Evangelist for Celo Kenya.
+### Mastering Optimistic Rollups: A Deep Dive into Optimism
+- **Duration**: 4 weeks
+- **Schedule**: Every Monday, Tuesday, and Wednesday
+- **Time**: 7:00 PM - 8:00 PM EAT
+- **Developer Hour Session**: Every Friday, 7:00 PM - 8:00 PM EAT (for Q&A, debugging assistance)
+
+**Coordinator**: Jordan, Smart Contract Developer and Developer Evangelist for Celo Kenya.
+**Coordinator**: Ronex, Smart Contract Developer and Developer for Celo Kenya.
+**Coordinator**: Rachel, for Lisk Africa.
 
 ## Getting Started
 
@@ -39,14 +45,23 @@ Continuum Block courses are designed for developers of all levels. To participat
 - **Intrinsic Motivation**: Participants should be driven by a genuine interest in blockchain development.
 - **Program Coordinator**: Jordan Muthemba
 
-### Layer 2 Solutions
+### Advanced Blockchain Solutions - Layer 2 Technologies
 - **What Is It**: An in-depth exploration of Layer 2 solutions, focusing on Optimistic Rollups and other scaling technologies.
 - **Who is it for?**: Developers looking to scale blockchain applications and improve transaction efficiency.
 - **Communication Skills**: Essential for discussing and documenting ideas effectively in English.
 - **Self-Directed Learning**: Encouraged to foster deep understanding and problem-solving skills.
 - **Code Writing Skills**: Necessary for implementing Layer 2 solutions.
 - **Intrinsic Motivation**: Driven by a passion for improving blockchain scalability.
-- **Program Coordinators**: Jordan, Ronex, Rachel
+- **Program Coordinators**: Jordan Muthemba, Ronex, Rachel
+
+### Mastering Optimistic Rollups: A Deep Dive into Optimism
+- **What Is It**: An intensive course focused on Optimistic Rollups and the Optimism protocol, covering architecture, deployment, and practical applications.
+- **Who is it for?**: Developers looking to specialize in Layer 2 solutions, specifically Optimistic Rollups.
+- **Communication Skills**: Clear and concise communication is crucial for documenting and discussing ideas, primarily in English.
+- **Self-Directed Learning**: Encouraged to explore resources and solve problems independently.
+- **Code Writing Skills**: Proficiency in writing and understanding smart contracts is essential.
+- **Intrinsic Motivation**: Participants should have a strong passion for blockchain scalability solutions.
+- **Program Coordinator**: Jordan Muthemba
 
 ## Participation Guide
 
@@ -77,14 +92,14 @@ The main communication channel is our R&D Discord server. Contact the course coo
 #### Standup Calls
 - **Purpose**: Discuss project progress, current issues, and participant questions.
 - **Schedule**: Every Monday, 15:00
-- **Link**: [Join the Standup]()
+- **Link**: [Join the Standup](https://meet.ethereum.org/epf-standup)
 
 #### Office Hours
 - **Purpose**: Focused discussions on specific topics proposed in advance.
 - **Schedule**: Every Tuesday, 15:00
-- **Link**: Find the agenda in [Issues](https://github.com/Light-Ideas-Labs/cohort-one-layer2-and-op-blockchainissues)
+- **Link**: Find the agenda in [Issues](https://github.com/ContinuumBlock/course-repo/issues)
 
-For any further assistance, contact the course coordinator, Jordan, Ronex, Rachel.
+For any further assistance, contact the course coordinator, Jordan Muthemba, Ronex, or Rachel.
 
 ## Project Ideas
 
